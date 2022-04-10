@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#again new text
+#this is the new version
 #variables 
 bucket=0
 key=0
